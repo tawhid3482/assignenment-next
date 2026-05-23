@@ -13,7 +13,7 @@ export default function Home() {
 
   return (
     <div className="p-10">
-      <h1 className="text-2xl font-bold">Frontend Running 🚀</h1>
+      <h1 className="text-2xl font-bold">Frontend Running dfsa das🚀</h1>
 
       <ul className="mt-5">
         {data.map((item: any, index) => (
